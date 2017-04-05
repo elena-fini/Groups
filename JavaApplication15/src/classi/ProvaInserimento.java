@@ -10,6 +10,7 @@ package classi;
  *
  * @author Marco Fiorillo
  *///BLBL
+//rgfdt
 public class ProvaInserimento {
     public static void main(String[] args) {
         System.out.println("Prova");
