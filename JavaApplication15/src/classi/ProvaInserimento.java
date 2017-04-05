@@ -9,7 +9,7 @@ package classi;
 /**
  *
  * @author Marco Fiorillo
- */
+ *///BLBL
 public class ProvaInserimento {
     public static void main(String[] args) {
         System.out.println("Prova");
